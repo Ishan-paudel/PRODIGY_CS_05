@@ -102,10 +102,3 @@ NPA/
 ## 👨‍💻 Author
 
 Developed as part of a **Cybersecurity Educational Project (Task-05: Network Packet Analyzer)**.
-
-```
-
----
-
-Do you want me to also add a **"Demo GIF/Usage Screenshot" section** in the README so it looks even more professional on GitHub?
-```
