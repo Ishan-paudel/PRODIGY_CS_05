@@ -25,7 +25,7 @@ It displays useful information such as **source and destination IP addresses, po
 - Install dependencies:
   ```bash
   pip install scapy
-````
+
 
 * On **Windows**, install [Npcap](https://nmap.org/npcap/) (with *WinPcap compatibility mode* enabled).
 
